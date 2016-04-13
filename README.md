@@ -1,6 +1,6 @@
 # MS Cognitive Services	- Recommendations API
 
-Python implemntation of Microsoft's Cognitive Services sample applications
+Python implemntation of Microsoft's Cognitive Services sample application
 
 Quick start guide for Cognitive Services Recommendations API
 
@@ -11,7 +11,7 @@ https://azure.microsoft.com/en-us/documentation/articles/cognitive-services-reco
 Sample Application originally coded in C# can be obtained from:
 http://go.microsoft.com/fwlink/?LinkID=759344
 
-In order to use the recommendations API you need to take the following Steps:
+In order to use the recommendations API you need to take the following steps:
 
 1. Create a Model
 2. Import Catalog Data
